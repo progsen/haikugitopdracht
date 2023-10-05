@@ -22,23 +22,28 @@ run het programma
 
 ## Haiku function template
 
-def HaikuX():
-    print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
-
+```
+function HaikuX(){
+     console.log("haiku by:","AUTHOR");
+     console.log("REGEL1");
+     console.log("REGEL2");
+     console.log("REGEL3");
+}
+```
 
 
 ## Haiku function ingevuld voorbeeld
 
 > letop deze mag niet gebruikt worden!
 
-def Haiku1():
-    print("haiku by:","Docent")
-    print("Panda in the mist")
-    print("Gently chewing on bamboo")
-    print("Perfect breakfast time")
+```
+function Haiku1(){
+    console.log("haiku by:","Docent");
+    console.log("Panda in the mist");
+    console.log("Gently chewing on bamboo");
+    console.log("Perfect breakfast time");
+}
+```
 
 ## haiku's voorbeelden:
 
