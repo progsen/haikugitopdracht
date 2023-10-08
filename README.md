@@ -4,7 +4,7 @@ Bij deze opdracht gaan jij een een klasgenoot (of klasgenoten) samen aan code we
 
 Stappenplan:
 1. 1 student kopieert de haiku template (regel 23 tot en met 31) 
-2. Deze plakt student 1 haiku.py onder #plak hier de haiku functions
+2. Deze plakt student 1 haiku.js onder #plak hier de haiku functions
 3. doe dit 3x onder elkaar
 4. nu heb je 3 haiku functions
 5. commit & push dit (zie de workflow)
