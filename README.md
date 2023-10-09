@@ -3,7 +3,7 @@
 Bij deze opdracht gaan jij een een klasgenoot (of klasgenoten) samen aan code werken
 
 Stappenplan:
-1. 1 student kopieert de haiku template (regel 23 tot en met 31) 
+1. 1 student kopieert de haiku template (de code onder `Haiku function template` in deze file) 
 2. Deze plakt student 1 in haiku.js onder #plak hier de haiku functions
 3. doe dit 3x onder elkaar
 4. nu heb je 3 haiku functions
