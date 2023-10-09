@@ -1,6 +1,8 @@
 # Haiku opdracht
 
 Bij deze opdracht gaan jij een een klasgenoot (of klasgenoten) samen aan code werken
+- fork deze repository
+- clone deze naar jullie pc's/laptops
 
 Stappenplan:
 1. 1 student kopieert de haiku template (de code onder `Haiku function template` in deze file) 
